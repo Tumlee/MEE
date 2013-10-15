@@ -1,0 +1,11 @@
+MEE (Math Expression Evaluator) is a simple program that takes and evalutes
+mathematical expressions received from stdin, and then prints the result
+to stdout.
+
+It is currently not fully-featured enough to be truly useful
+compared to an actual calculator program, although the classes and functions
+that have been written for it (Particularly MExpr and MTokenTable) can
+be used to be used for real applications.
+
+A goal of this project is to teach MExpr how to simplify an expression that
+has a mixture of variables and constant values.
